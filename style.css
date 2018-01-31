@@ -1,0 +1,48 @@
+*{
+    padding: none;
+    margin: 10px auto;
+    background-color: rgb(158, 155, 155);
+    /* border: 1px solid red; */
+}
+
+#wrapper{
+    margin: 20px;
+    padding: 0px;
+}
+
+#header{
+    width: 100%;
+    margin-left: 2%;
+}
+
+img{
+    width: 23%;
+    height: 180px;
+    border: 2px solid rgb(99, 99, 99);
+    margin-left: 5px;
+}
+
+#resultsbox{
+    width: 400px;
+    /* height: 600px; */
+    padding: 20px;
+}
+
+#results{
+    border: 8px solid rgb(107, 5, 5);
+}
+
+#results h3{
+    font-weight: bold;
+    font-style: oblique;
+    display: block;
+    margin: 5px 10px;
+    text-align: left;
+    margin-left: 5%;
+    
+}
+
+span{
+    text-decoration: underline;
+}
+
